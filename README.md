@@ -27,10 +27,10 @@ Simple prjection mapping editor in Processing inspired by [Madmapper].
 #####Version
 1.0.0
 
-#####Dependencies
+#####Dependencies/Processing Library
 * [VMAP]
 * [ControlP5]
-
+* [Syphon]
 
 ### Todo's
 * Dynamic List for Syphon Input
@@ -45,3 +45,4 @@ License
 [Processing]:http://processing.org
 [vmap]:https://github.com/AlanChatham/VMap/releases
 [ControlP5]:http://www.sojamo.de/libraries/controlP5/
+[Syphon]https://github.com/Syphon/Processing/releases
