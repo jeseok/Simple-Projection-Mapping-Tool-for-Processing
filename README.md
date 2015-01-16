@@ -45,4 +45,4 @@ License
 [Processing]:http://processing.org
 [vmap]:https://github.com/AlanChatham/VMap/releases
 [ControlP5]:http://www.sojamo.de/libraries/controlP5/
-[Syphon]https://github.com/Syphon/Processing/releases
+[Syphon]:https://github.com/Syphon/Processing/releases
